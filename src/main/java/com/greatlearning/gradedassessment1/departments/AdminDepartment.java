@@ -13,4 +13,5 @@ public class AdminDepartment extends SuperDepartment{
 	public String getWorkDeadline() {
 		return "Complete by EOD ";
 	}
+	
 }
