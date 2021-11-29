@@ -38,5 +38,4 @@ public class Main {
 		System.out.println(techDepartment.getTechStackInformation());
 		System.out.println(tech.isTodayAHoliday());
 	}
-
 }
